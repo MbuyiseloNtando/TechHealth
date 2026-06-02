@@ -1,4 +1,4 @@
-# Data Warehouse Project – OLTP to DWH Pipeline
+# Tech Data Warehouse Project – OLTP to DWH Pipeline
 
 ## Overview
 This project builds a Tech Health data warehouse from a relational source database. It enforces column constraints (NOT NULL, UNIQUE, CHECK, FK) at every stage to guarantee data integrity.
